@@ -1,4 +1,3 @@
-# Superstore-Sales-Analysis-Dashboard
 # Superstore Sales Dashboard – Data Visualization & Insights
 
 ## Project Overview
